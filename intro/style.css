@@ -1,0 +1,23 @@
+body{
+    background-color: #141212;
+    color: #fff;
+}
+
+li{
+    background-color: chartreuse;
+    color: aquamarine;
+}
+
+li{
+    background-color: rgb(9, 19, 158);
+}
+
+ul li{
+    font-size: 32px;
+    font-family: cursive;
+}
+
+li{
+    background-color: blueviolet;
+    color: cornflowerblue;
+}
