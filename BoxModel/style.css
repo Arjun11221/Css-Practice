@@ -1,0 +1,12 @@
+.parent{
+    width: 800px;
+}
+
+.one{
+    background-color: rgb(41, 31, 95);
+    color: rgb(134, 81, 81);
+    border: 5px solid red;
+    padding: 20px;
+
+    
+}
