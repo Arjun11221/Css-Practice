@@ -1,0 +1,25 @@
+h3{
+    text-align: center;
+}
+
+h1{
+    /* text-align: left;    by default */
+    text-align: center;
+    /* text-decoration: line-through  aqua ; */
+
+    text-decoration: double red underline ;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    line-height: 25px;
+    font-size: 25px;
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: capitalize;
+}
+
