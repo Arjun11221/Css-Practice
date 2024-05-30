@@ -1,20 +1,17 @@
-.parent{
-    width: 800px;
+h1{
+    width: 200px;
+    height: 100px;
+    background-color: cadetblue;
+    border: 5px dotted rebeccapurple ;
 }
 
-*{
-    box-sizing: border-box;
-}
-.pra{
-    border: 10px solid red;
-    width: 300px;
-    height: 300px;
-    padding:25px;
-    margin: 40px;
-    border-radius: 100%;
-    background: #2c2222;
-    overflow: hidden;
-}
-img{
-    width: 100%;
+div{
+    width: 250px;
+    height: 250px;
+    background-color: violet;
+    border-width: 5px;
+    border-style: solid;
+    border-color: cornflowerblue;
+    text-align: center;
+
 }
