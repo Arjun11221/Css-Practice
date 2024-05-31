@@ -1,0 +1,39 @@
+div{
+    width:100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.box1{
+    background-color: violet;
+    position: static; 
+}
+
+.box2{
+    background-color: #eb0a0a;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.box3{
+    background-color: #120aeb;
+    position: absolute;
+    top: 200px;
+    left: 880px;
+}
+
+.box4{
+    background-color: #0aeb9c;
+    position: fixed;
+    top: 5px;
+    width: 100%;
+
+}
+
+.box5{
+    background-color: #75078b;
+    position: sticky;
+    top: 100px;
+    left: 150px;
+}
